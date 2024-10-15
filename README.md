@@ -22,11 +22,11 @@ yarn dev
 
 | Script     | Description                                                                 |
 | ---------- | --------------------------------------------------------------------------- |
-| dev        | Runs the app in the development mode.                                       |
-| build      | Builds the app for production to the `dist` folder.                         |
-| lint       | Runs the Eslint and show code problems                                      |
-| format     | Runs the Prettier and fix code style                                        |
-| preview    | Builds the app for production to the `dist` folder, and run locally server. |
+| dev        | Run the app in development mode.                                            |
+| build      | Build the app for production to the `dist` folder.                          |
+| lint       | Run Eslint and show code problems                                           |
+| format     | Run Prettier and fix code style                                             |
+| preview    | Build the app for production to the `dist` folder, and run on local server. |
 | test       | Run the app tests.                                                          |
 | test:watch | Run the app tests in watch mode.                                            |
 
