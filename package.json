@@ -6,9 +6,9 @@
   "type": "module",
   "license": "MIT",
   "author": {
-    "name": "Patrick Jean Meurer",
-    "email": "patrickjmeurer@gmail.com",
-    "url": "https://github.com/potreco"
+    "name": "Eugene Chua",
+    "email": "",
+    "url": "https://github.com/luorixo"
   },
   "scripts": {
     "dev": "vite",
