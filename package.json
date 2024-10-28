@@ -1,13 +1,12 @@
 {
   "name": "viterc",
   "private": false,
-  "description": "A modern minimal Vite 5 + React 18 + TypeScript template with pre-configured ESLint (with Airbnb JS/React rules), Prettier, Vitest and Git hooks with Husky out of the box 📦",
-  "version": "2.0.0",
+  "description": "Portfolio website of Eugene Chua",
+  "version": "1.0.0",
   "type": "module",
   "license": "MIT",
   "author": {
     "name": "Eugene Chua",
-    "email": "",
     "url": "https://github.com/luorixo"
   },
   "scripts": {
